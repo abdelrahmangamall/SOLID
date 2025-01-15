@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID.SRP", "SOLID.SRP.csproj", "{A1149FED-3566-46DB-82E1-CF4F99B21BEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID.OCP", "..\SOLID.OCP\SOLID.OCP.csproj", "{21C6313B-2F88-4099-AD86-65D4695EBD92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID.LSP", "..\SOLID.LSP\SOLID.LSP.csproj", "{88ACC261-2248-47AE-B8F8-E2AAC89E66E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1149FED-3566-46DB-82E1-CF4F99B21BEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1149FED-3566-46DB-82E1-CF4F99B21BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1149FED-3566-46DB-82E1-CF4F99B21BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1149FED-3566-46DB-82E1-CF4F99B21BEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21C6313B-2F88-4099-AD86-65D4695EBD92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C6313B-2F88-4099-AD86-65D4695EBD92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C6313B-2F88-4099-AD86-65D4695EBD92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C6313B-2F88-4099-AD86-65D4695EBD92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88ACC261-2248-47AE-B8F8-E2AAC89E66E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88ACC261-2248-47AE-B8F8-E2AAC89E66E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88ACC261-2248-47AE-B8F8-E2AAC89E66E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88ACC261-2248-47AE-B8F8-E2AAC89E66E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
