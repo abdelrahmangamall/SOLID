@@ -21,7 +21,7 @@ attributes(data) and operation together in the same class.<br>
 <br>
 ## 3) Liskov Subsitution Princilpe...SO(L)ID.
 *His Idea: subtype must be a Substitution for their base type.*<br>
-*The problem that has been solved: A subclass can not apply a method in the base class.*
+*The problem solved: A subclass can not apply a method in the base class.*
 ![image](https://github.com/user-attachments/assets/f63e1c74-89e2-4f12-9d62-045611e83d3b)
 <br>
 ## 4) Interface Segregation Principle...SOL(I)D.
@@ -39,5 +39,8 @@ attributes(data) and operation together in the same class.<br>
 *His Idea: classes must depend on the abstractions or Interfaces, not on subclasses* 
 ![image](https://github.com/user-attachments/assets/37eb7234-6454-4b8c-9a83-72fab3450ce7)
 
+### Additional concepts
+## 6) KISS: Keep it Simple, Stupid
 
+## 7) YAGNI: You are not Gonna Need it.
 
